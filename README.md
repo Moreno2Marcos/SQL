@@ -1,4 +1,3 @@
-# SQL
 In order to verify my solution in each question you have to do the folowwong:
 - Access to the question
 - Click the link
