@@ -3,6 +3,7 @@ In this section I want to prove my expertise (developing several practical cases
 - Metrics;
 - Key Performance Indicators (KPIs);
 - Reports;
+- Data analysis;
 - Ad-hoc analysis;
-- Data manipulation;
+- Data manipulation (Data Extraction, Exploratory Data Analysis (EDA), Data Cleansing and Data Transformation for Data Analysis);
 - Technical interviews.
