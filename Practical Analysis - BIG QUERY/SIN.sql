@@ -1,0 +1,6 @@
+# SIN, PI = 3.1416
+
+SELECT
+  SIN(0),
+  ROUND(SIN(3.1416 / 6), 1),
+  ROUND(SIN(3.1416 / 2))
