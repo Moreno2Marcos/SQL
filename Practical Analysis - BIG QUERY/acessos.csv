@@ -1,0 +1,11 @@
+﻿id,user_id,user_name,type
+1,8,RENAN,login
+2,3,GABRIELA,login
+3,5,REBECA,login
+4,5,REBECA,logout
+5,6,PEDRO,login
+6,6,PEDRO,logout
+7,7,JAMES,login
+8,8,RENAN,login
+9,8,RENAN,logout
+10,7,JAMES,login
