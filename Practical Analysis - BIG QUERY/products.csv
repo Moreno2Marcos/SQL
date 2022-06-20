@@ -1,0 +1,51 @@
+﻿id,name,price,category_id
+0,Sapato,96,0
+1,Bolsa,21,0
+2,Calça,75,0
+3,Camisa,70,0
+4,Vestido,57,0
+5,Perfume,29,1
+6,Creme de Barbear,15,1
+7,Hidratante,10,1
+8,Shampoo,15,1
+9,Protetor Solar,11,1
+10,Geladeira,1952,2
+11,Fogão,1373,2
+12,TV,1992,2
+13,Máquina de Lavar,1826,2
+14,Máquina de Secar,1774,2
+15,O Romance Exagerado,46,3
+16,Suspense Demais,42,3
+17,Terror Aterrorizante,45,3
+18,A Comédia Engraçada,20,3
+19,A História de SQL,23,3
+20,Ai-Fone,1720,4
+21,Galáxia R10,2007,4
+22,Chiai-homi,1152,4
+23,Ruaei,2795,4
+24,Nóquia,2663,4
+25,Mouse,144,5
+26,Teclado,53,5
+27,Pen-Drive,136,5
+28,Impressora,186,5
+29,HD Externo,110,5
+30,Poltrona,110,6
+31,Almofada,170,6
+32,Cadeira,164,6
+33,Sofá,111,6
+34,Mesa,143,6
+35,Video-Game,602,7
+36,Máquina Fotográfica,377,7
+37,Notebook,493,7
+38,PC,385,7
+39,Secador de Cabelo,580,7
+40,Chuteira,128,8
+41,Tornozeleira,61,8
+42,Raquete,97,8
+43,Bola,103,8
+44,Pebolim,82,8
+45,Futebol 2020,36,9
+46,Iôiô,16,9
+47,Peão,32,9
+48,Bey-Blade,55,9
+49,Casinha de Boneca,39,9
